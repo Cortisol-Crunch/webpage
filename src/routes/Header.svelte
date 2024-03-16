@@ -12,7 +12,7 @@
         <a href="/about">Nutrimentos</a>
       </li>
       <li>
-        <a href="/contact">Nuestra misión</a>
+        <a href="/info">Nuestra misión</a>
       </li>
       <li>
         <a href="/contact">Contacto</a>
